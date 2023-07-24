@@ -1,42 +1,40 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Wikipedia Search Web App (WIKIROCKET🚀)
+
+## Project Description
+
+The Wikipedia Search Web App is a user-friendly web application that utilizes the Wikipedia API to allow users to search for articles and retrieve relevant information from Wikipedia. This app provides a simple and efficient way for users to access a vast repository of knowledge and information available on Wikipedia.
+
+## Features
+
+1. **Search Functionality:** The web app allows users to enter search queries and retrieve a list of relevant Wikipedia articles based on their input.
+
+2. **Article Preview:** Upon searching for a specific topic, the app displays a preview of the Wikipedia articles' content, providing users with a brief overview of each article's information.
 
 
-Live Demo of the app: https://wikirocket-o1c1xc19f-csjames03.vercel.app/
-## Getting Started
+## Technologies Used
 
-First, run the development server:
+- **TailwindCSS:** TailwindCSS is used to style the web app, ensuring a visually appealing and intuitive design.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- **NextJS:** The app leverages JavaScript to handle user interactions, perform API requests to Wikipedia, and display search results dynamically.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Wikipedia API:** The Wikipedia API is utilized to fetch search results and article content based on user queries.
+- 
+- TypeScript: TypeScript adds static typing to JavaScript, allowing developers to catch errors early and enhance code reliability and readability.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-[http://localhost:3000/api/hello](http://localhost:3000/api/hello) is an endpoint that uses [Route Handlers](https://beta.nextjs.org/docs/routing/route-handlers). This endpoint can be edited in `app/api/hello/route.ts`.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contributions and Issues
 
-## Learn More
+Contributions to the project are welcome! If you encounter any issues while using the app or have ideas to enhance its functionality, feel free to create an issue in the repository. Additionally, you can submit pull requests with improvements or bug fixes.
 
-To learn more about Next.js, take a look at the following resources:
+## License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+The Wikipedia Search Web App is released under the [MIT License](link-to-license), granting users the freedom to use, modify, and distribute the software. However, it comes with no warranty, and the developers are not liable for any damages or issues caused by the use of this app.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Acknowledgments
 
-## Deploy on Vercel
+We extend our gratitude to the Wikipedia Foundation for providing the API, which makes this app possible. We also thank all the contributors and open-source communities whose tools and libraries have facilitated the development of this project.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Enjoy searching and exploring the vast knowledge that Wikipedia offers through our web app!
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# wikirocket
->>>>>>> origin/main
+For any further queries or assistance, please contact us at [csjames0303@gmail.com](mailto:your-csjames0303@gmail.com).
